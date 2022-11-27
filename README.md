@@ -1,4 +1,4 @@
 # Shabaab_Restaurant
-A restaurant Outlet App
+Cross-Platform Restaurant App
 
 A cross-platform restaurant app written in React Native
